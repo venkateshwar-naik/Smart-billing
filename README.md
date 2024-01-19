@@ -1,4 +1,4 @@
-
+# Tasteful Palatte
 
 Welcome to our restaurant's online ordering platform! Discover a delightful menu showcasing a variety of mouthwatering dishes.When you find the perfect items for your meal, effortlessly add them to your order.
 Our intuitive interface allows you to manage your selections in a virtual shopping cart, ensuring a seamless and user-friendly experience.![Screenshot 2024-01-19 152051](https://github.com/venkateshwar-naik/restaurent/assets/156400758/3a986cf1-ca95-4073-ac56-cf407e39eff3)
